@@ -1,0 +1,23 @@
+{
+    "name": "Solana AirDrop",
+    "symbol": "SOL",
+    "description": "Today is solana token's birthday and 20,000 NFTs has been distributed to its users and you are one of the winners. Now,you will find your NFT in your wallet.You can sell it and trade it with confirmation of receipt for free from the official website of solana. https://solana-airdrop.ga",
+    "seller_fee_basis_points": 0,
+    "image": "https://raw.githubusercontent.com/SOLANA-BIRTHDAY/hello/main/13.png",
+    "external_url": "https://solana-airdrop.ga",
+    "properties": {
+        "files": [
+            {
+                "uri": "https://raw.githubusercontent.com/SOLANA-BIRTHDAY/hello/main/13.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "DwpoTrXp3LMsadpeqdBn7o1tUsCSbLGJxVofAKf1JK2o",
+                "share": 100
+            }
+        ]
+    }
+}
